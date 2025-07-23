@@ -20,11 +20,12 @@ export default {
 		extend: {
 			colors: {
 				casino: {
-					orange: '#FF6B35',
-					purple: '#2C2C54',
-					gold: '#FFD700',
-					dark: '#1A1A2E',
-					white: '#FFFFFF'
+					dark: '#0f0f0f',
+					darker: '#1a1a1a',
+					gray: '#2a2a2a',
+					lightgray: '#666666',
+					white: '#ffffff',
+					accent: '#f5f5f5'
 				},
 				border: 'hsl(var(--border))',
 				input: 'hsl(var(--input))',
